@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    isin_code_generator (0.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  isin_code_generator
+
+BUNDLED WITH
+   1.15.4
