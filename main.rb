@@ -1,7 +1,7 @@
 require 'socket'
 require 'isin_code_generator'
 
-server = TCPServer.new('localhost', 2345)
+server = TCPServer.new('0.0.0.0', 2345)
 
 loop do
     socket = server.accept
